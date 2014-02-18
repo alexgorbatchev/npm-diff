@@ -1,0 +1,27 @@
+{
+  "name": "npm-diff",
+  "version": "1.1.0",
+  "description": "Diff two versions of a node module",
+  "bin": {
+    "npm-dif": "./npm-diff"
+  },
+  "author": {
+    "name": "Julian Gruber",
+    "url": "https://github.com/juliangruber"
+  },
+  "maintainers": [
+    {
+      "name": "Alex Gorbatchev",
+      "url": "https://github.com/alexgorbatchev"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexgorbatchev/npm-diff.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "diff"
+  ]
+}
